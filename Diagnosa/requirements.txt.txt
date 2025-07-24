@@ -1,3 +1,0 @@
-streamlit
-google-generativeai
-python-dotenv # Opsional, jika Anda mau pakai .env lokal untuk development
